@@ -38,5 +38,5 @@ de positia zonei fata de reperele: ':' si '*'.
 Algoritmul incepe ca la subpunctul 1, verifica prim pare a regiunii si apoi sare la 
 a 2-a parte a regiunii, urmand sa treaca in starea reprezentand a 2-a regiune and so on.
 
-Ca la subpunctul 1, cand intalneste un input deja inregristrat ca si citit in stare,
+Ca la subpunctul 1, cand intalneste un input deja inregistrat ca si citit in stare,
 masina se opreste.
